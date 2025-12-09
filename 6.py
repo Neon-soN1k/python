@@ -16,3 +16,5 @@ for row in matrix:
             even_count += 1
 print(f"\nкол-во чётных: {even_count}")
 #Задание2
+matrix_1 = [[2, 4, 3, 6], [5, 7, 1, 5]]
+matrix_2 = [[2, 9, 0, 2], [3, 4, 7, 6]]
