@@ -51,4 +51,4 @@ for row in matrix:
     print(row)
 print("\nВаш двумерный массив (формат из примера):")
 for row in matrix:
-    print(row) # В Python списки выводятся в формате [a, b, c], что соответствует примеру
+    print(row)
