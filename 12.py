@@ -3,7 +3,7 @@ x = lambda a, b: a * b
 print(x(2, 3))
 print(x(5, 5))
 print(x(10, 0.5))
-№задание2
+#задание2
 try:
     count_of_numbers_input = input("Всего чисел будет: ")
     count_of_numbers = int(count_of_numbers_input)
